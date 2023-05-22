@@ -8,5 +8,7 @@
 # Usage
   - Just type simply following command
   ```python labeler.py```
+# Requirements
+  - PyQt5
 # To do
   - Anything I feel it is needed
