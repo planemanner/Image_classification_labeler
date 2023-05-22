@@ -12,3 +12,7 @@
   - PyQt5
 # To do
   - Anything I feel it is needed
+
+# Visual Captures
+  - When you open an image folder, you can see following interface. 
+![WhenOpenImageFolder](./labeling_tool.PNG)
