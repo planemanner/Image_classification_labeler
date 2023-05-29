@@ -214,8 +214,7 @@ class LabelingTool(QMainWindow):
         selected_item = self.file_list.currentItem()
         if selected_item is not None:
             selected_index = self.file_list.row(selected_item)
-            image_path = self.image_paths[selected_index]
-            self.load_image(image_path)
+            self.load_image(selected_index)
 
     def modify_class_label(self, class_label):
 
